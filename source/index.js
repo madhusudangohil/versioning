@@ -1,5 +1,5 @@
 class Index{
-	Welcom(name){
+	Welcome(name){
 	return "hello - " + name;
 }
 }
